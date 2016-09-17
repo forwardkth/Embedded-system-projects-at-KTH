@@ -1,0 +1,1 @@
+"./wasa_1_5_at.obj" -l"libc.a" "../lnk_msp430f2416.cmd" 
